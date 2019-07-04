@@ -2,7 +2,8 @@ package solution
 
 import "strconv"
 
-func Solution(N int) int {
+// BinaryGap : returns the binary gap of an integer
+func BinaryGap(N int) int {
 	binary := strconv.FormatInt(int64(N), 2)
 	binaryChars := []rune(binary)
 	higher := 0
