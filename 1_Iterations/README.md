@@ -6,5 +6,5 @@
 
 ## My Solution
 
-![complexity](https://img.shields.io/badge/Complexity-O(N)-green.svg)
+![complexity](https://img.shields.io/badge/Complexity-O(n)-green.svg)
 ![correctness](https://img.shields.io/badge/Correctness-100%25-brightgreen.svg)
