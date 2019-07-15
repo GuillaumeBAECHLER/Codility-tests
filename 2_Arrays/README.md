@@ -2,11 +2,11 @@
 
 ## OddOccurrencesInArray
 
-__Problem__
+### Problem
 
 [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
 
-__My Solution__
+### My Solution
 
 ![complexity](https://img.shields.io/badge/Complexity-O(n)-green.svg)
 ![correctness](https://img.shields.io/badge/Correctness-100%25-brightgreen.svg)
@@ -14,11 +14,11 @@ __My Solution__
 
 ## CyclicRotation
 
-__Problem__
+### Problem
 
 [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
-__My Solution__
+### My Solution
 
 ![complexity](https://img.shields.io/badge/Complexity-O(n)-green.svg)
 ![correctness](https://img.shields.io/badge/Correctness-100%25-brightgreen.svg)

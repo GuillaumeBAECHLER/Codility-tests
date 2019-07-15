@@ -2,11 +2,11 @@
 
 ## OddOccurrencesInArray
 
-__Problem__
+### Problem
 
 [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
 
-__My Solution__
+### My Solution
 
 ![complexity](https://img.shields.io/badge/Complexity-O(1)-brightgreen.svg)
 ![correctness](https://img.shields.io/badge/Correctness-100%25-brightgreen.svg)
