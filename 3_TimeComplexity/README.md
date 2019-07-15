@@ -1,6 +1,6 @@
 # TimeComplexity
 
-## OddOccurrencesInArray
+## FrogJmp
 
 __Problem__
 
