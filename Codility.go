@@ -1,12 +1,12 @@
 package main
 
 import (
-	arrays "./2_Arrays"
+	"fmt"
+
+	timecomplexity "./3_TimeComplexity"
 )
 
 func main() {
-	arrays.CyclicRotation([]int{1, 2, 3, 4, 5, 6}, 1)
-	arrays.CyclicRotation([]int{1, 2, 3, 4, 5, 6}, 2)
-	arrays.CyclicRotation([]int{1, 2, 3, 4, 5, 6}, 3)
-	arrays.CyclicRotation([]int{1, 2, 3, 4, 5, 6}, 4)
+	fmt.Println(timecomplexity.PermMissingElem([]int{1, 2, 4, 5}))
+	fmt.Println(timecomplexity.PermMissingElem([]int{}))
 }
